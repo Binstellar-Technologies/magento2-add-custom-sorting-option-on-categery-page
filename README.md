@@ -1,6 +1,6 @@
 ## Magento2 Add Custom Sorting option on categery page(A - Z, Z - A, High to Low Price, Low to High Price)
 
-> Magento2 Category page by default has 3 sorting options Position, Name & Price. Here, we have added new custom options named as
+> Magento2 Category page or Listing page by default provides us with 3 sorting options Position, Name & Price. Here, we have added new custom options named as
 
 ##### A - Z (Alphabetical Order Sorting)
 ##### Z - A (Reverse Alphabetical Order Sorting)
